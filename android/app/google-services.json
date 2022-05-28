@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206402699383",
+    "project_id": "clock-c15a9",
+    "storage_bucket": "clock-c15a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206402699383:android:f24b25df9a376d8510c672",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206402699383-k22hgfkdv5r69upg2ee8g6otnqfckk8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTLByIis5ezvji8PbhM9_7Dnxcqgj8i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206402699383-k22hgfkdv5r69upg2ee8g6otnqfckk8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
