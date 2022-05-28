@@ -1,6 +1,8 @@
 # flutter_app
 
-A new Flutter project.
+Design(UI) code for Remind Me app
+
+Code can be found in file: https://github.com/sathvik213/Remind-Me-UI/tree/main/lib
 
 ## Getting Started
 
